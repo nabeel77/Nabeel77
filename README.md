@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nabeel
 - 👀 I’m interested in Fullstack development and machine learning
-- 🌱 I’m currently working as a fullstack developer using MERN stack
-- 💞️ I’m looking to collaborate on projects related to MERN stack and/or machine learning and computer vision.
+- 🌱 I’m currently working as a fullstack developer using Typescript, Javascript, React.js, Next.js, Node.js, MongoDB, Express.js, Koa.js.
+- 💞️ I’m looking to collaborate on projects. I am open to work with Machine learning, Artificial intelligence, Web development, Mobile application   development related projects
 - 📫 How to reach me, email: nabeel.beeni30@gmail.com, whatsapp: +37126615374.
 
 <!---
