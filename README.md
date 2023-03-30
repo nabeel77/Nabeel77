@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Clara** [https://github.com/Nabeel77/Clara](https://github.com/Nabeel77/Clara)
 
-- 🌱 I’m currently learning **C++, Angular**
+- 🌱 I’m currently learning **C++**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
