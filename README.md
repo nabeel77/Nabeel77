@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Clara**
 
-- 👨‍💻 All of my projects are available at [https://www.nabeelmunir.com](https://www.nabeelmunir.com)
+- 👨‍💻 Most of my projects are available at [https://www.nabeelmunir.com](https://www.nabeelmunir.com)
 
 - 💬 Ask me about **Javascript, Typescript, PHP, React.js, Next.js, Node.js**
 
