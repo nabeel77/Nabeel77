@@ -13,8 +13,6 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 🤝 I’m looking for help with **Clara**
-
 - 👨‍💻 Most of my projects are available at [https://www.nabeelmunir.com](https://www.nabeelmunir.com)
 
 - 💬 Ask me about **Javascript, Typescript, PHP, React.js, Next.js, Node.js**
@@ -23,7 +21,7 @@
 
 - 📄 Know about my experiences [https://www.nabeelmunir.com](https://www.nabeelmunir.com)
 
-- ⚡ Fun fact **I like cooking**
+- ⚡ Fun fact **I watch a lot of history documentaries**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
