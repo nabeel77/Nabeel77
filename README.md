@@ -7,9 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/@nabeelm777" target="blank"><img src="https://img.shields.io/twitter/follow/@nabeelm777?logo=twitter&style=for-the-badge" alt="@nabeelm777" /></a> </p>
 
-- 🔭 I’m currently working on [tmrev](https://www.tmrev.io/)
-
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **Solana smart contract development**
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
