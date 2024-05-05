@@ -21,7 +21,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/@nabeelm777" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@nabeelm777" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/nabeel-munir-8a7a99134/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nabeel-munir-8a7a99134/" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/nabeel_beeni30" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="nabeel_beeni30" height="30" width="40" /></a>
 </p>
