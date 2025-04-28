@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Open source projects**
 
-- 👨‍💻 All of my projects are available at [[My LinkedIn profile](https://www.linkedin.com/in/nabeel-munir-8a7a99134/)]([https://www.nabeelmunir.com](https://www.linkedin.com/in/nabeel-munir-8a7a99134/))
+- 👨‍💻 All of my projects are available at [[My LinkedIn profile](https://www.linkedin.com/in/nabeel-munir-8a7a99134/)]]
 
 - 💬 Ask me about **Java, Spring boot, Javascript, Typescript, Java, React.js, Next.js, Node.js,**
 
