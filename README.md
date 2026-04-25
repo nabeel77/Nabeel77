@@ -41,7 +41,7 @@
 `React` `Next.js` `Remix`
 
 **Backend**  
-`Node.js` `Spring Boot` `GraphQL`
+`Node.js` `Spring Boot` `GraphQL` `Nestjs`
 
 **Database**  
 `MongoDB` `PostgreSQL` `Prisma`
